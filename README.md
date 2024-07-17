@@ -12,7 +12,8 @@
    - [Recommendition](#recommendition)
 
 ### Project Overview
-  This data analysis project aims to provide insoghts into the HR analystics of a chocaltier company. By analysis various asspects of data, we seek to identify trends, make data driven recomendations, and gain a deeper understanding of the emplyee wages and recruitment.
+ This data analysis project aims to provide insights into the HR analytics of a chocolatier company. By analyzing various aspects of data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of employee wages and recruitment. Please check GitHub.
+
 
 ### Data Source
 HR Data: The primary dataset usedd for this analysis is an excel format dataset cantaining detailed information about employees and wages.
