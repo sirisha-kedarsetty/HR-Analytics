@@ -63,6 +63,13 @@ In th intial data prepation phase, I performed the following tasks:
        2. Product Manager Job title has the highest salary
        3. Maximum nuber of employees are in mid 30years
 
+   ### Output
+![Screenshot 2024-07-17 105642](https://github.com/user-attachments/assets/0e6ae838-d4fd-4d3b-85be-ffa8e262627e)
+
+
+     
+
+
   ### Recommendition:
 
     Based on the analysis I recomend the following actions:
